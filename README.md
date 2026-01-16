@@ -11,6 +11,5 @@ All using Selenium library, scrapping financial statement such as:
 •	Dividend history
 CSV file consisting financial statements are created and updated for each company’s tickers
 
-<p align="center">
-  <img src="/CSVs/financial_info.JPG" alt="Squarepharma"/>
-</p>
+<img src="/CSVs/financial_info.JPG" alt="Squarepharma"/>
+
