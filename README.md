@@ -12,5 +12,5 @@ All using Selenium library, scrapping financial statement such as:
 CSV file consisting financial statements are created and updated for each company’s tickers
 
 <p align="center">
-  <img src="/CSVs/financial_info.JPG" alt="Squarepharma" width="500"/>
+  <img src="/CSVs/financial_info.JPG" alt="Squarepharma" width="750"/>
 </p>
